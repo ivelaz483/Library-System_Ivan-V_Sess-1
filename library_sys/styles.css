@@ -1,0 +1,12 @@
+body {  
+  background: linear-gradient(to right, #6600ff 0%, #3399ff 100%);
+}
+
+.navbar-brand {
+  color: white;
+  font-size: .5rem;
+}
+
+.col-1 {
+  padding-top: 2rem;
+}
